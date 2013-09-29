@@ -76,6 +76,7 @@ namespace StockMonitor
         {
             var reverseRepo = new ReverseRepo { MdiParent = this, WindowState = FormWindowState.Maximized };
             reverseRepo.Show();
+            String testString = "aaa";
         }
 
  
