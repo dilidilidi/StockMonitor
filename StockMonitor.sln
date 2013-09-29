@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMonitor", "StockMonitor\StockMonitor.csproj", "{9997AE05-9461-407E-B9AB-5D3F57E21C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMonitorTest", "StockMonitorTest\StockMonitorTest.csproj", "{AF196005-CF7B-4D71-9391-D1CB56688C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9997AE05-9461-407E-B9AB-5D3F57E21C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9997AE05-9461-407E-B9AB-5D3F57E21C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9997AE05-9461-407E-B9AB-5D3F57E21C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9997AE05-9461-407E-B9AB-5D3F57E21C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF196005-CF7B-4D71-9391-D1CB56688C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF196005-CF7B-4D71-9391-D1CB56688C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF196005-CF7B-4D71-9391-D1CB56688C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF196005-CF7B-4D71-9391-D1CB56688C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

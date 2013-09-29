@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\StockMonitor\StockHelper\bin\Release\StockHelper.exe.config
+C:\Users\Administrator\Desktop\StockMonitor\StockHelper\obj\Release\StockHelper.exe
+C:\Users\Administrator\Desktop\StockMonitor\StockHelper\obj\Release\StockHelper.pdb
+C:\Users\Administrator\Desktop\StockMonitor\StockHelper\bin\Release\StockMonitor.exe.config
+C:\Users\Administrator\Desktop\StockMonitor\StockMonitor\bin\Release\StockMonitor.exe.config

@@ -1,0 +1,10 @@
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\sound\dog.wav
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\StockHelperTest.dll
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\StockHelperTest.pdb
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\StockHelper.exe
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\Npgsql.dll
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\Mono.Security.dll
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\bin\Release\StockHelper.pdb
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\obj\Release\StockHelperTest.csprojResolveAssemblyReference.cache
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\obj\Release\StockHelperTest.dll
+C:\Users\sunbin\Desktop\StockHelper\StockHelperTest\obj\Release\StockHelperTest.pdb
